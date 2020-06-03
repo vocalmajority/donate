@@ -22,6 +22,8 @@ Organizations are grouped by focus area. The focus areas included are:
 
 Focus areas are shown in alphabetical order, with the exception of __Memorial Funds__ which are shown immediately below.
 
+___
+
 ### Memorial Funds
 
 * <a href="https://www.gofundme.com/f/georgefloyd">Justice for George Floyd</a> was killed in the Powderhorn community of Minneapolis, Minnesota, United States. While Floyd was handcuffed and lying face down on a city street during an arrest, Derek Chauvin, a white American Minneapolis police officer, kept his knee on the right side of Floyd's neck for 8 minutes and 46 seconds; according to the criminal complaint against Chauvin. 2 minutes and 53 seconds of that time occurred after Floyd became unresponsive. The arrest was made after Floyd was accused of using a counterfeit $20 bill at a market. This GoFundMe will be used to cover funeral and burial costs; counseling services; legal fees; and continued care for his children.
