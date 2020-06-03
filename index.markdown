@@ -68,6 +68,8 @@ ___
 
 * <a href="https://www.splcenter.org/">The Southern Poverty Law Center</a> monitors hate groups and other extremists throughout the U.S. and exposes their activities to law enforcement agencies, the media, and the public. The SPLC is dedicated to fighting hate and bigotry and to seeking justice for the most vulnerable members of our society. Using litigation, education, and other forms of advocacy, the SPLC works toward the day when the ideals of equal justice and equal opportunity will be a reality.
 
+* <a href="https://unicornriot.ninja/">Unicorn Riot</a> is a non-profit organization that is dedicated to exposing root causes of dynamic social and environmental issues.
+
 ___
 
 ### Culture & Art
