@@ -163,16 +163,3 @@ ___
 * <a href="https://code2040-2020.funraise.org/">Code2040</a> is working to activate, connect, and mobilize the largest racial equity community in tech to dismantle the structural barriers that prevent the full participation and leadership of Black and Latinx people in the innovation economy.
 
 * <a href="https://www.digitalundivided.com/">digitalundivided (Didtechnology)</a> is a social startup with 501 (c) 3 status that merges data and heart to develop innovative programs and initiatives  that catalyzes economic growth in Black and Latinx communities. digitalundivided works to use innovation to create system change by catalyzing economic growth for Black and Latinx communities through women entrepreneurs.
-
-
-
-
-
-
-
-## Supporting Black Businesses
-
-If you would like to help support black businesses in Minnesota most-impacted, please donate to the <a href="https://abepmpls.org/pimento-relief-fund">Pimento Relief Fund</a>.
-
-
-
