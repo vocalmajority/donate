@@ -118,6 +118,8 @@ ___
 
 * <a href="https://www.reclaimtheblock.org/">Reclaim the Block</a> is a community coalition representing activists, organizers, faith and community leaders united by the demand that Minneapolis divest from policing and invest in long-term alternatives that would decrease the scope of MPD and promote healthier, safer, more diverse communities.
 
+You can also research how much of your city’s budget goes toward its police force, and demand your local lawmaker move to cut that spending and reallocate it towards other crucial areas, like housing, education, and public health. Divest-invest initiatives are underway in <a href="https://peoplesbudgetla.com/">Los Angeles</a>, <a href="https://www.changethenypd.org/nycbudgetjustice">New York</a>, and <a href="http://phillywerise.com/defundpolice/">Philadelphia</a>. Their websites have information on which lawmakers to contact, as well as sample scripts of what you might say.
+
 ___
 
 ### Politics & Voting
