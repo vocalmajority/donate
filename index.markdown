@@ -98,6 +98,8 @@ ___
 
 * <a href="https://blackfem.org/">Blackfem</a> is a “wealth and financial literacy organization empowering women and girls of color to create financial stability and sustainability for themselves.” Its personal finance programs focus on “correcting the extreme resource deficiency that characterizes this demographic.”
 
+* <a href="http://dream-usa.org/our-organization">D.R.E.A.M. (Developing Responsible Economically Advanced Model-Citizens)</a> is a cutting edge, financial education and advocacy 501(c)(3) nonprofit organization committed to empowering underrepresented, urban youth by equipping them with the essential knowledge for life’s challenging financial decisions. D.R.E.A.M. is training the next generation of citizens who will foster change within America’s urban communities, which will result in a radical shift in the financial practices of America’s low-income, urban citizens.
+
 ___
 
 ### Health & Wellness
