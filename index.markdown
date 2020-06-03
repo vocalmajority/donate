@@ -3,9 +3,9 @@ layout: default
 title: "Non-Profit Organizations"
 ---
 
-## Non-profit funds and organizations focused on empowering Black men and women and the eradication of racial injustice.
+## Non-Profit Funds & Organizations
 
-*This list is intended to be comprehensive but understand that there could be many others not included. If there is something missing, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
+*This list is not comprehensive, but hopefully can act as a starting point. For anybody looking to add an organization that is not already included, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
 
 Organizations are grouped by focus area. The focus areas included are:
 * Bail Funds & Legal Support
