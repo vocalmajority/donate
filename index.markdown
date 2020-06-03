@@ -82,9 +82,15 @@ ___
 
 ### Education
 
+* <a href="https://giving.uchicago.edu/site/Donation2?df_id=1714&mfc_pref=T&1714.donation=form1">The Black Youth Project</a> has two aims: 1) Do research on what young black Americans think and what challenges they're confronting, and 2) Provide a platform that amplifies their voices and ideas. This organization creates content for a young black audience that's by a young black audience. Plus, they also run fellowship programs in Chicago.
+
 * <a href="https://www.nblsa.org/donate">National Black Law Students Association (NBLSA)</a> works across America “to increase the number of culturally responsible Black and minority attorneys who excel academically, succeed professionally and positively impact the community.” NBLSA seeks both to support black law students and attorneys with opportunities to develop skills and make career connections, and to influence the legal community at large to address the needs of the black community.
 
 * <a href="http://www.readingholidayproject.org/a-homepage-section/mission/">Reading Holiday Project</a> seeks to “help black boys ages 4-8 to identify as readers by connecting books and reading to a male-centered space and by involving men in boys' early reading experiences.” The organization champions Barbershop Books, a program to expand reading opportunities for children in New York City; Baltimore; Chicago; Columbus, Ohio; and Washington, D.C. Barbershop Books provides barbershops with child-friendly reading spaces, books recommended by black boys, and literacy training for barbers.
+
+* <a href="https://www.showingupforracialjustice.org/donate-to-surj.html">Showing Up for Racial Justice</a> works to educate white people about anti-racism and organizes actions to support the fight for racial justice and undermine white supremacy
+
+* <a href="https://www.tmcf.org/our-give">The Thurgood Marshall College Fund (TMCF)</a> is the largest organization in the nation that represents HBCUs (historically black colleges and universities) and predominantly black institutions. Providing leadership, lobbying, job recruiting, and scholarships, TMCF helps to groom the next generation of cultural leaders. In 2017 alone, they helped to confer more than 30,500 undergraduate degrees, 7,500 graduate degrees, and about 2,000 doctorate degrees.
 
 ___
 
