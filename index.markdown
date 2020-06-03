@@ -5,6 +5,8 @@ title: "Non-Profit Organizations"
 
 ## Non-Profit Funds & Organizations
 
+Return to <a href="https://vocalmajority.github.io/about/">about</a>.
+
 *This list is not comprehensive, but hopefully can act as a starting point. For anybody looking to add an organization that is not already included, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
 
 Organizations are grouped by focus area. The focus areas included are:
