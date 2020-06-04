@@ -44,9 +44,13 @@ Please see this comprehensive <a href="https://bailfunds.github.io/">list of Bai
 
 If you are interested in making one donation that will be split evenly among over 50  bail funds, mutual aid funds, and activist organizations listed on the following link, or allocate specific amounts to individual groups, please visit <a href="https://secure.actblue.com/donate/bail_funds_george_floyd">ActBlue's resource here</a>.
 
+* All funds donated to the <a href="https://www.paypal.me/freethemall">(F)empower Community Bond Fund</a> will go toward posting bond for those who can't afford it, in order to get them out of jail cages in Miami, FL jails. 
+
 * <a href="https://www.knowyourrightscamp.com/">Know Your Rights Camp</a> is an organization founded by Colin Kaepernick that provides education and training in black and brown communities. Their mission is to advance the liberation and well-being of Black and Brown communities through education, self-empowerment, mass-mobilization, and the creation of new systems that elevate the next generation of change leaders. The organization has set up a legal fund for Minneapolis protestors. 
 
 * <a href="https://www.naacpldf.org/">NAACP Legal Defense and Educational Fund</a> is America’s premier legal organization fighting for racial justice. Through litigation, advocacy, and public education, LDF seeks structural changes to expand democracy, eliminate disparities, and achieve racial justice in a society that fulfills the promise of equality for all Americans.
+
+* <a href="https://nationalbailout.org/black-mamas-bail-out/">National Bailout #FreeBlackMamas</a> is a Black-led abolitionist movement bailing out Black mamas and caregivers.  
 
 ___
 
@@ -109,6 +113,10 @@ ___
 * <a href="https://www.bwwla.org/about-us/">Black Women for Wellness</a> is committed to the health and well-being of Black women and girls through health education, empowerment and advocacy.
 
 * <a href="https://thelovelandfoundation.org/">The Loveland Foundation</a> is committed to showing up for communities of color in unique and powerful ways, with a particular focus on Black women and girls.
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDk1ZaSv_nCqc1wI0KH0ZsOS28FT9tH-BRviA-VUB_Cf-tZg/viewform">The Nina Pop Mental Health Recovery Fund</a> is an emergency mutual aid fund that raises money to pay for one-time mental health therapy sessions with licensed Black women therapists. Those who are willing and interested may donate funds AND/OR may donate one therapy session with their Black woman therapist to be used by Black trans women, Black transfeminine people, and/or Black folks who identify as transgender* who have been participating in the protests against state-sanctioned violence and/or are coping with the emotional stress of the public murders of Nina Pop, Tony McDade, and the epidemic of Trans people being murdered worldwide.
+
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLScFbCqnPzsY0pSi39i_AjsTpVZpqJ20IOlJoX37N5qOHqN6cA/viewform">The Tony McDade Mental Health Recovery Fund</a> is an emergency mutual aid fund that raises money to pay for one-time mental health therapy sessions with licensed Black male therapists. Those who are willing and interested may donate funds AND/OR may donate one therapy session with their Black male therapist to be used by Black Trans men, Black transmasculine people, and/or Black folks who identify as trans*  who have been participating in the protests against state-sanctioned violence or are coping with the emotional stress of dealing with the murder of Nina Pop, Tony McDade, and the epidemic of Trans people being murdered worldwide.
 
 ___
 
