@@ -84,6 +84,8 @@ ___
 
 ### Culture & Art
 
+* <a href="https://activationresidency.com/">Activation Residency</a> is an art residency, collective, and co-op fund that serves marginalized artists and communities.
+
 * <a href="http://www.blacktablearts.com/">Black Table Arts</a> gathers Black communities through the arts, towards better black futures.
 
 * <a href="https://www.dancetheatreofharlem.org/">The Dance Theatre of Harlem</a> is a New York City ballet school that provides arts education and ballet training aiming to “present a ballet Company of African American and other racially diverse artists who perform the most demanding repertory at the highest level of quality.” In addition to performances and training, the Dance Theatre of Harlem also maintains community outreach programs to bring the arts to all.
@@ -129,6 +131,14 @@ ___
 ### Law
 
 * <a href="https://www.nationalbar.org//">National Bar Association</a> is the nation's oldest and largest national network of predominantly African-American attorneys and judges. The NBA is organized around 23 substantive law sections, 9 divisions, 12 regions and 80 affiliate chapters throughout the United States and around the world.
+
+___
+
+### LGBTQIA+
+
+* <a href="https://transgenderlawcenter.org/programs/blmp">Black LGBTQIA+ Migrant Project (BLMP)</a> is building and centering the power of Black LGBTQIA+ migrants to ensure the liberation of all Black people through community-building, political education, creating access to direct services, and organizing across borders. The organization is also providing cash assistance to Black LGBTQIA+ migrants and first generation people dealing with the impact of COVID-19.
+
+* The <a href="https://www.gofundme.com/f/homeless-black-trans-women-fund">Homeless Black Trans Women Fund</a> is providing financial assistance to the community of Black Trans women that live in Atlanta and are sex workers and/or homeless.
 
 ___
 
