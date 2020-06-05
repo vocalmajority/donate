@@ -64,6 +64,8 @@ ___
 
 * <a href="https://colorofchange.org/">Color of Change</a> designs campaigns powerful enough to end practices that unfairly hold Black people back, and champion solutions that move us all forward.
 
+* <a href="https://m4bl.org/>The Movement for Black Lives Fund</a> supports Black-led rapid response efforts and long-term strategy, policy, and infrastructure investments in the movement ecosystem.
+
 * <a href="https://www.naacp.org/">NAACP</a> continually works to ensure a society in which all individuals have equal rights without discrimination based on race.
 
 * <a href="http://nbjc.org/node?page=16%22%3B=">National Black Justice Coalition</a> is a civil rights organization dedicated to the empowerment of Black lesbian, gay, bisexual, transgender, queer and same gender loving (LGBTQ/SGL) people, including people living with HIV/AIDS. NBJC’s mission is to end racism, homophobia, and LGBTQ/SGL bias and stigma.
@@ -71,6 +73,8 @@ ___
 * <a href="https://www.nbwji.org/">National Black Women’s Justice Institute</a> works to reduce racial and gender disparities across the justice continuum affecting Black women, girls, and their families, by conducting research, providing technical assistance, engaging in public education, promoting civic engagement, and advocating for informed and effective policies.
 
 * <a href="https://nul.org/">National Urban League</a> is a civil-rights organization focused on the economic empowerment of underserved urban communities. The National Urban League works through 100 local affiliates in 36 states and the District of Columbia to provide programming, public policy research and advocacy designed to improve the lives of more than 2 million people nationwide.
+
+* <a href="https://docs.google.com/document/d/1PHxRzlBbB99Kc0pKJKy55rcRi3dC2Xxokw4bK_9sNT4/edit">The Reparations for Black People Fund</a> is an initiative to collect monthly donations from non-Black folks and redistribute them to a network of Black individuals and organizations in need.
 
 * <a href="https://www.splcenter.org/">The Southern Poverty Law Center</a> monitors hate groups and other extremists throughout the U.S. and exposes their activities to law enforcement agencies, the media, and the public. The SPLC is dedicated to fighting hate and bigotry and to seeking justice for the most vulnerable members of our society. Using litigation, education, and other forms of advocacy, the SPLC works toward the day when the ideals of equal justice and equal opportunity will be a reality.
 
@@ -83,6 +87,8 @@ ___
 * <a href="http://www.blacktablearts.com/">Black Table Arts</a> gathers Black communities through the arts, towards better black futures.
 
 * <a href="https://www.dancetheatreofharlem.org/">The Dance Theatre of Harlem</a> is a New York City ballet school that provides arts education and ballet training aiming to “present a ballet Company of African American and other racially diverse artists who perform the most demanding repertory at the highest level of quality.” In addition to performances and training, the Dance Theatre of Harlem also maintains community outreach programs to bring the arts to all.
+
+* The <a href="https://thefreeblackwomanslibrary.tumblr.com/">Free Black Women's Library</a> provides mutual aid to honor and nurture single Black mother artists, writers, and cultural workers.
 
 ___
 
