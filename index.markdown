@@ -17,6 +17,7 @@ Organizations are grouped by focus area. The focus areas included are:
 * Financial Literacy
 * Health & Wellness
 * Law
+* LGBTQIA+
 * Police Reform
 * Politics & Voting
 * Prison Reform
@@ -86,11 +87,21 @@ ___
 
 * <a href="https://activationresidency.com/">Activation Residency</a> is an art residency, collective, and co-op fund that serves marginalized artists and communities.
 
+* <a href="https://www.instagram.com/arthoecollective/?hl=en">Art Hoe Collective</a> is a collective started by QBPOC to provide a safe space for creatives of color. Your donation will also provide funds to Black-owned businesses affected by protests; contact via arthoecoreps@gmail.com.
+
+* <a href="https://www.blackfeastdinner.com/">Black Feast</a> is a monthly vegan pop-up celebrating black artists and writers through food.
+
 * <a href="http://www.blacktablearts.com/">Black Table Arts</a> gathers Black communities through the arts, towards better black futures.
+
+* <a href="http://www.bufubyusforus.com/">By Us For Us</a> is a collective of queer, femme, and non-binary Black and POC artists and organizers. 
 
 * <a href="https://www.dancetheatreofharlem.org/">The Dance Theatre of Harlem</a> is a New York City ballet school that provides arts education and ballet training aiming to “present a ballet Company of African American and other racially diverse artists who perform the most demanding repertory at the highest level of quality.” In addition to performances and training, the Dance Theatre of Harlem also maintains community outreach programs to bring the arts to all.
 
 * The <a href="https://thefreeblackwomanslibrary.tumblr.com/">Free Black Women's Library</a> provides mutual aid to honor and nurture single Black mother artists, writers, and cultural workers.
+
+* The <a href="https://spicyzine.com/">Spicy Zine</a> is a collective led by women of color and queer/trans people of color working at the intersection of art, organizing, and publishing.
+
+* The <a href="https://www.instagram.com/thecirri/?hl=en">The Cirri</a> is a platform amplifying the narratives of Black womxn storytellers. You can donate via Cashapp ($thecirri).
 
 ___
 
@@ -105,6 +116,8 @@ ___
 * <a href="https://www.showingupforracialjustice.org/donate-to-surj.html">Showing Up for Racial Justice</a> works to educate white people about anti-racism and organizes actions to support the fight for racial justice and undermine white supremacy
 
 * <a href="https://www.tmcf.org/our-give">The Thurgood Marshall College Fund (TMCF)</a> is the largest organization in the nation that represents HBCUs (historically black colleges and universities) and predominantly black institutions. Providing leadership, lobbying, job recruiting, and scholarships, TMCF helps to groom the next generation of cultural leaders. In 2017 alone, they helped to confer more than 30,500 undergraduate degrees, 7,500 graduate degrees, and about 2,000 doctorate degrees.
+
+* <a href="https://www.wokekindergarten.org/">Woke Kindergarten</a> provides liberation- and abolition-based learning for early lerner education. You can donate via Venmo (@akieagross) or PayPal (akieagross@gmail.com).
 
 ___
 
@@ -136,7 +149,13 @@ ___
 
 ### LGBTQIA+
 
+* The <a href="https://www.bklynboihood.com/">Bklyn Boi Hood</a> is an organization of queer and trans bois of color who create spaces for our community to bloom.
+
 * <a href="https://transgenderlawcenter.org/programs/blmp">Black LGBTQIA+ Migrant Project (BLMP)</a> is building and centering the power of Black LGBTQIA+ migrants to ensure the liberation of all Black people through community-building, political education, creating access to direct services, and organizing across borders. The organization is also providing cash assistance to Black LGBTQIA+ migrants and first generation people dealing with the impact of COVID-19.
+
+* <a href="https://www.bravespacealliance.org/">Brave Space Alliance</a> is the first Black-led, trans-led LGBTQ Center located on the South Side of Chicago, dedicated to creating and providing affirming, culturally competent, for-us by-us resources, programming, and services for LGBTQ individuals on the South and West sides of the city. They strive to empower, embolden, and educate each other through mutual aid, knowledge-sharing, and the creation of community-sourced resources as we build toward the liberation of all oppressed peoples. 
+
+* The <a href="https://linktr.ee/FEMMEPREMACY">Femmepremacy</a> is a NYC QTPOC party/workshop/event space centering Black femmes.
 
 * The <a href="https://www.gofundme.com/f/homeless-black-trans-women-fund">Homeless Black Trans Women Fund</a> is providing financial assistance to the community of Black Trans women that live in Atlanta and are sex workers and/or homeless.
 
