@@ -64,7 +64,7 @@ ___
 
 * <a href="https://colorofchange.org/">Color of Change</a> designs campaigns powerful enough to end practices that unfairly hold Black people back, and champion solutions that move us all forward.
 
-* <a href="https://m4bl.org/>The Movement for Black Lives Fund</a> supports Black-led rapid response efforts and long-term strategy, policy, and infrastructure investments in the movement ecosystem.
+* <a href="https://m4bl.org/">The Movement for Black Lives Fund</a> supports Black-led rapid response efforts and long-term strategy, policy, and infrastructure investments in the movement ecosystem.
 
 * <a href="https://www.naacp.org/">NAACP</a> continually works to ensure a society in which all individuals have equal rights without discrimination based on race.
 
