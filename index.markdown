@@ -199,6 +199,8 @@ ___
 
 * <a href="https://blackpac.com/">Black PAC</a> is an independent, Black-led organization that uses the power of year-round political engagement and elections to change our economic, justice, and political systems.
 
+* <a href="https://www.blackvotersmatterfund.org/">Black Voters Matter Fund</a> is focused on increasing political power in Black communities. Effective voting allows a community to determine its own destiny.
+
 * <a href="https://www.brennancenter.org/">The Brennan Center For Justice</a> is an independent, nonpartisan law and policy organization that works to reform, revitalize, and when necessary, defend our country’s systems of democracy and justice. The organization works to ensure that all Americans have an equal voice in our elections and that our government advances the public interest and upholds the rule of law. 
 
 * <a href="https://fairfight.com/">Fair Fight</a> promotes fair elections in Georgia and around the country, encourages voter participation in elections, and educates voters about elections and their voting rights. Fair Fight brings awareness to the public on election reform, advocates for election reform at all levels, and engages in other voter education programs and communications.
