@@ -121,6 +121,12 @@ ___
 
 * <a href="https://giving.uchicago.edu/site/Donation2?df_id=1714&mfc_pref=T&1714.donation=form1">The Black Youth Project</a> has two aims: 1) Do research on what young black Americans think and what challenges they're confronting, and 2) Provide a platform that amplifies their voices and ideas. This organization creates content for a young black audience that's by a young black audience. Plus, they also run fellowship programs in Chicago.
 
+* Donate to the <a href="https://giving.uchicago.edu/site/Donation2?df_id=1714&mfc_pref=T&1714.donation=form1">HBCU Foundation</a> and the <a href="https://hbcucampaignfund.org/donate/">HBCU Campaign Fund</a>, each of which supports and provides assistance to students and HBCUs. If you are a position to recruit and hire talent for your employer, __proactively include candidates from HBCU schools as part of your team's recruitment efforts__. 
+
+has two aims: 1) Do research on what young black Americans think and what challenges they're confronting, and 2) Provide a platform that amplifies their voices and ideas. This organization creates content for a young black audience that's by a young black audience. Plus, they also run fellowship programs in Chicago.
+
+https://thehbcufoundation.org/donate/
+
 * <a href="https://www.nblsa.org/donate">National Black Law Students Association (NBLSA)</a> works across America “to increase the number of culturally responsible Black and minority attorneys who excel academically, succeed professionally and positively impact the community.” NBLSA seeks both to support black law students and attorneys with opportunities to develop skills and make career connections, and to influence the legal community at large to address the needs of the black community.
 
 * <a href="http://www.readingholidayproject.org/a-homepage-section/mission/">Reading Holiday Project</a> seeks to “help black boys ages 4-8 to identify as readers by connecting books and reading to a male-centered space and by involving men in boys' early reading experiences.” The organization champions Barbershop Books, a program to expand reading opportunities for children in New York City; Baltimore; Chicago; Columbus, Ohio; and Washington, D.C. Barbershop Books provides barbershops with child-friendly reading spaces, books recommended by black boys, and literacy training for barbers.
