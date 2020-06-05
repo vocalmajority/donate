@@ -101,11 +101,13 @@ ___
 
 * The <a href="https://thefreeblackwomanslibrary.tumblr.com/">Free Black Women's Library</a> provides mutual aid to honor and nurture single Black mother artists, writers, and cultural workers.
 
+* <a href="https://www.instagram.com/seeblackwomxn/?hl=en">See Black Womxn</a> makes visible Black womxn's creative labor. <a href="https://www.paypal.me/seeblackwomen">Donate here</a>.
+
 * The <a href="https://spicyzine.com/">Spicy Zine</a> is a collective led by women of color and queer/trans people of color working at the intersection of art, organizing, and publishing.
 
 * The <a href="https://www.instagram.com/thecirri/?hl=en">The Cirri</a> is a platform amplifying the narratives of Black womxn storytellers. You can donate via Cashapp ($thecirri).
 
-* The <a href="https://womenscenterforcreativework.com/">The Women's Center for Creative Work (WCCW)</a> is a network of women based in Los Angeles who promote art and feminism. Founded in 2013, the WCCW operates through various exhibitions, workshops, dinners, and other special events that connect creative women and feminists. Donate <a href="https://donate.womenscenterforcreativework.com/">here</a>.
+* The <a href="https://womenscenterforcreativework.com/">The Women's Center for Creative Work (WCCW)</a> is a network of women based in Los Angeles who promote art and feminism. Founded in 2013, the WCCW operates through various exhibitions, workshops, dinners, and other special events that connect creative women and feminists. <a href="https://donate.womenscenterforcreativework.com/">Donate here</a>.
 
 ___
 
