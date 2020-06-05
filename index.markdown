@@ -87,6 +87,8 @@ ___
 
 * <a href="https://activationresidency.com/">Activation Residency</a> is an art residency, collective, and co-op fund that serves marginalized artists and communities.
 
+* <a href="https://www.afrotectopia.org/about">Afrotectopia</a> is a social institution fostering interdisciplinary innovation at the intersections of art, design, technology, Black culture, and activism.
+
 * <a href="https://www.instagram.com/arthoecollective/?hl=en">Art Hoe Collective</a> is a collective started by QBPOC to provide a safe space for creatives of color. Your donation will also provide funds to Black-owned businesses affected by protests; contact via arthoecoreps@gmail.com.
 
 * <a href="https://www.blackfeastdinner.com/">Black Feast</a> is a monthly vegan pop-up celebrating black artists and writers through food.
@@ -102,6 +104,8 @@ ___
 * The <a href="https://spicyzine.com/">Spicy Zine</a> is a collective led by women of color and queer/trans people of color working at the intersection of art, organizing, and publishing.
 
 * The <a href="https://www.instagram.com/thecirri/?hl=en">The Cirri</a> is a platform amplifying the narratives of Black womxn storytellers. You can donate via Cashapp ($thecirri).
+
+* The <a href="https://womenscenterforcreativework.com/">The Women's Center for Creative Work (WCCW)</a> is a network of women based in Los Angeles who promote art and feminism. Founded in 2013, the WCCW operates through various exhibitions, workshops, dinners, and other special events that connect creative women and feminists. Donate <a href="https://donate.womenscenterforcreativework.com/">here</a>.
 
 ___
 
