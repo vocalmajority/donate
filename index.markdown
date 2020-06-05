@@ -95,6 +95,8 @@ ___
 
 * <a href="http://www.blacktablearts.com/">Black Table Arts</a> gathers Black communities through the arts, towards better black futures.
 
+* <a href="http://brownartink.com/">Brown Art Ink</a> is a nomadic community incubator to support the arts ecosystem for artists, cultural practitioners, and communities of color.
+
 * <a href="http://www.bufubyusforus.com/">By Us For Us</a> is a collective of queer, femme, and non-binary Black and POC artists and organizers. 
 
 * <a href="https://www.dancetheatreofharlem.org/">The Dance Theatre of Harlem</a> is a New York City ballet school that provides arts education and ballet training aiming to “present a ballet Company of African American and other racially diverse artists who perform the most demanding repertory at the highest level of quality.” In addition to performances and training, the Dance Theatre of Harlem also maintains community outreach programs to bring the arts to all.
