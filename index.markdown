@@ -137,6 +137,8 @@ ___
 
 * <a href="https://www.bwwla.org/about-us/">Black Women for Wellness</a> is committed to the health and well-being of Black women and girls through health education, empowerment and advocacy.
 
+* <a href="https://www.ethelsclub.com/">Ethel's Club</a> is a social and wellness platform designed to celebrate people of color.
+
 * <a href="https://thelovelandfoundation.org/">The Loveland Foundation</a> is committed to showing up for communities of color in unique and powerful ways, with a particular focus on Black women and girls.
 
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDk1ZaSv_nCqc1wI0KH0ZsOS28FT9tH-BRviA-VUB_Cf-tZg/viewform">The Nina Pop Mental Health Recovery Fund</a> is an emergency mutual aid fund that raises money to pay for one-time mental health therapy sessions with licensed Black women therapists. Those who are willing and interested may donate funds AND/OR may donate one therapy session with their Black woman therapist to be used by Black trans women, Black transfeminine people, and/or Black folks who identify as transgender* who have been participating in the protests against state-sanctioned violence and/or are coping with the emotional stress of the public murders of Nina Pop, Tony McDade, and the epidemic of Trans people being murdered worldwide.
