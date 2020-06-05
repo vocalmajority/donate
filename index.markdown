@@ -93,6 +93,10 @@ ___
 
 * <a href="https://www.blackfeastdinner.com/">Black Feast</a> is a monthly vegan pop-up celebrating black artists and writers through food.
 
+* <a href="https://www.instagram.com/blackfeministkitchen/">Black Feminist Kitchen</a> is an underground school dedicated to Black feminist study. <a href="https://docs.google.com/forms/d/e/1FAIpQLSesaPPA-qvvg3oYvg2vuoLL6WsTHsDaAYKkzLqCxkgwixcLaQ/viewform">Apply for 2020 Summer School (online) here</a>. Donate via Cash App ($BFKBFSSFund) or PayPal (@BFKBFSSFund).
+
+* <a href="https://blackgirlmagik.com/">Black Girl Magik</a> is a collective of artists, community organizers, and makers conjuring a transnational platform for women across the African diaspora.
+
 * <a href="http://www.blacktablearts.com/">Black Table Arts</a> gathers Black communities through the arts, towards better black futures.
 
 * <a href="http://brownartink.com/">Brown Art Ink</a> is a nomadic community incubator to support the arts ecosystem for artists, cultural practitioners, and communities of color.
