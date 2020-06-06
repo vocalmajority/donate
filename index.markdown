@@ -155,7 +155,7 @@ ___
 
 * <a href="https://metaden.co/support">metaDEN</a> is a healing incubator curated by and for people of color, centering queer, trans, and gender-non-conforming (gnc) folks.
 
-* <a href="https://metaden.co/support">N</a> is a healing incubator curated by and for people of color, centering queer, trans, and gender-non-conforming (gnc) folks.
+* The <a href="https://birthequity.org/">National Birth Equity Collaborative</a> creates solutions that optimize Black maternal and infant health through training, policy advocacy, research, and community-centered collaboration.
 
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDk1ZaSv_nCqc1wI0KH0ZsOS28FT9tH-BRviA-VUB_Cf-tZg/viewform">The Nina Pop Mental Health Recovery Fund</a> is an emergency mutual aid fund that raises money to pay for one-time mental health therapy sessions with licensed Black women therapists. Those who are willing and interested may donate funds AND/OR may donate one therapy session with their Black woman therapist to be used by Black trans women, Black transfeminine people, and/or Black folks who identify as transgender* who have been participating in the protests against state-sanctioned violence and/or are coping with the emotional stress of the public murders of Nina Pop, Tony McDade, and the epidemic of Trans people being murdered worldwide.
 
